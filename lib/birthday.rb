@@ -1,6 +1,6 @@
 # birthday_kids = {
-#   "Timmy" => 9, 
-#   "Sarah" => 6, 
+#   "Timmy" => 9,
+#   "Sarah" => 6,
 #   "Amanda" => 27
 # }
 def happy_birthday(birthday_kids)
@@ -20,6 +20,3 @@ def age_appropriate_birthday(birthday_kids)
     end
   end
 end
-
-
-
